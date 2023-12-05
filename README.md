@@ -9,13 +9,11 @@ And optimzed for search engines.
 
 ## Installation
 
-N/A
+Please click on the URL below to access the refactor challenge page.
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+To be viewed to see what improvements have been made to the basecode.
 
 
 ![Screen shot of web page](./assets/images/screenshot_test.png)
@@ -26,8 +24,9 @@ https://leegit11.github.io/Module-1-Challenge-Code-Refactor
 
 ## Credits
 
-*/ need to reference w3 schools on resources for semantic references /*
+Followed guidance from W3 schools on HTML semantics
+https://www.w3schools.com/html/html5_semantic_elements.asp
 
 ## License
 
-N/A
+No licence required.
