@@ -1,3 +1,4 @@
+/*global box styling*/
 *{
     box-sizing: border-box;
     padding: 0;
@@ -8,13 +9,12 @@ body {
     background-color: #d9dcd6;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
+/*styling for header sections below*/
 .header {
     padding: 20px;
     background-color: #2a607c;
     color: #ffffff;
 }
-
 
 .header div ul li {
     display: inline-block;
@@ -36,13 +36,13 @@ body {
     float: right;
     font-size: 20px;
 }
-
+/*anchor ref styling*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-
+/*consolidated styling for the 3 improvements horseon can make*/
 #search-engine-optimization, #online-reputation-management, #social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -50,37 +50,16 @@ a {
     background-color: #0072bb;
     color: #ffffff;
 }
-/*
-#online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
-#social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-*/
 
-/*tried to use nav and display, but not sure this worked so omitted it
-.header nav {
-    display: grid;
-}
-*/
-
+/*styling for hero section*/
 .hero {
     width: 100%;
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
 }
-
+/*styling for content*/
 .content {
     width: 75%;
     height: 100%;
@@ -92,7 +71,7 @@ a {
 #search-engine-optimization img, #online-reputation-management img, #social-media-marketing img {
     max-height: 200px;
 }
-
+/*float left attributes*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -103,21 +82,17 @@ a {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*paragrapgh font size*/
 p {
     font-size: 16px;
 }
 
-
+/*float right attributes*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
-/*
-#social-media-marketing img {
-    max-height: 200px;
-}
-*/
+/*styling for the article and benefits class*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -145,14 +120,14 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*footer styling*/
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*footer header text size*/
 .footer h2 {
     font-size: 20px;
 }
